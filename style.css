@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.item p{
+  border:solid;
+  background-color: black;
+  color: azure;
+}
+
+
+li{
+  background-color: black;
+  color: azure;
+}
